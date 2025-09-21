@@ -5,6 +5,7 @@ Forecasting U.S. unemployment trends with statistical and machine learning model
 📌 Summary
 This project focused on forecasting U.S. unemployment rates using a combination of time-series models and deep learning approaches. By analyzing historical economic indicators, the models provided improved predictive accuracy that can support better policy decisions, financial planning, and labor market analysis.
 
+⚠️ Note: Only publicly available datasets (e.g., U.S. Bureau of Labor Statistics, FRED) were used for this project. No proprietary or sensitive data is included.
 
 🎯 Objectives
 

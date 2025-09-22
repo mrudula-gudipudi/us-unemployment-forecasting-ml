@@ -44,6 +44,20 @@ Compared accuracy of all approaches using RMSE and MAPE.
 
 📊 Results & Business Value
 
+OLS (YoY): MSE 1.64, MAPE 0.31
+
+OLS (3-month): MSE 0.63, MAPE 0.182
+
+ARIMA (3-month): MSE 0.012, MAPE 0.024
+
+SARIMA (3-month): MSE 0.20, MAPE 0.12
+
+SARIMA (YoY): MSE 0.013, MAPE 0.024
+
+Classification (trend up/down): ~0.70 accuracy; minority-class limitations; ROC inconclusive due to class imbalance.
+
+
+
 Accuracy Gain: Deep learning models improved prediction accuracy by 22% over traditional time-series methods.
 
 Policy Relevance: Reliable forecasts can support decision-making in labor policy and financial planning.
@@ -51,6 +65,8 @@ Policy Relevance: Reliable forecasts can support decision-making in labor policy
 Adaptability: Framework can be extended to other economic indicators.
 
 Visualization: Clear trend charts made insights accessible for non-technical users.
+
+
 
 
 ⚠️ Challenges & Limitations
